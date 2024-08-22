@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:rgb(27, 4, 48) ;
+}
+ul{
+text-align: end;
+padding: 20px;
+}
+li{
+display:inline;
+padding: 4px;
+margin-left: 3%;
+float:end;
+
+}
+a{
+    padding: 12px;
+text-decoration: none;
+color: aliceblue;
+background-color: black;
+border-radius: 20px;
+}
+a:hover{
+    color: black;
+    background-color:white;
+}
+a:active{
+   background-color: blueviolet;
+   transform: scale(0.9);
+    
+}
+button{
+    color: white;
+    background-color: rgb(40, 112, 12);
+    border: none;
+    border-radius: 20px;
+    padding: 12px;
+}
+button:hover{
+    color: black;
+    background-color:white;
+}
+button:active{
+   background-color: blueviolet;
+   transform: scale(0.9);}
+   h1{
+    color: white;
+    margin-top: 300px;
+    margin-left: 750px;
+    font-size: 50px;
+   }
+   p{
+    color: white;
+    margin-left: 950px;
+    padding: 20px;
+   }
+   fieldset{
+    width: 300px;
+    padding: 20px;
+background-color: transparent;
+    margin-top: -450px;
+    margin-left: 70px;
+    height: 350px;
+    color: white;
+    border-radius: 20px;
+   }
+   input{
+    padding: 10px;
+    margin: 15px;
+background-color: white;
+border: none;
+border-radius: 15px;
+
+}
+.but{
+    margin:10px ;
+    margin-left: 55px;
+    width: 120px;
+    height: 30px;
+    padding: 3px;
+    background-color: rgba(155, 9, 99, 0.863);
+}
+.radio{
+    padding: 70px;
+    margin: 15px;
+    font-size: small;
+}
+.forgot{
+   font-size: small;
+   background: no-repeat;
+   color: rgb(6, 6, 252);
+    
+}
+.forgot:hover{
+    background: no-repeat;
+    
+}
+span{
+    padding: 10px;
+margin: 80px;
+font-size: 50px;
+background: no-repeat;
+font-size: 50px;
+}
